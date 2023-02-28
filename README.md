@@ -1,5 +1,5 @@
-#Olá, me chamo Davi!
-#Bem-vindo ao meu perfil do Github!
+# Olá, me chamo Davi!
+## Bem-vindo ao meu perfil do Github!
 
 ### Ferramentas e Tecnologias
 
