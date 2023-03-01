@@ -26,5 +26,4 @@ Tenho 18 anos, moro em Mata de São João/BA e sou apaixonado por programação!
 <p align="center">
   <img src="https://media.tenor.com/uj4Cnt7RVE0AAAAC/fatdog-dog.gif" width="350">
 </p>
-
-# ![Snake animation](https://github.com/DaviFonsec/DaviFonsec/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DaviFonsec/DaviFonsec/blob/output/github-contribution-grid-snake.svg)
