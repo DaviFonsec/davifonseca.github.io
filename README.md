@@ -1,4 +1,6 @@
-# Olá, me chamo Davi!
+# Olá, me chamo Davi! 
+
+Tenho 18 anos, moro em Mata de São João/BA e sou apaixonado por programação! Sou iniciante no universo da programação, e quanto mais eu aprendo e passo raiva, mais minha vontade de aprender aumenta!
 ## Bem-vindo ao meu perfil do Github!
 ## - 🌱 Atualmente estou aprendendo sobre HTML5, CSS3 e GitHub!
 ## - 🔭 Atualmente não estou trabalhando, apenas estudando Análise de Desenvolvimento de Sistemas e sobre as linguagens!
@@ -11,11 +13,18 @@
 
 # Ferramentas e Tecnologias
 
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width= "40" height="40" />
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width= "40" height="40"/>
 
-# Estatísticas GitHub
-<div>
-<a href="https://github.com/davifonsec">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+# Estatísticas do GitHub
+<div align="center">
+<a href="https://github.com/DaviFonsec">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFonsec&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviFonsec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<br>
+<br>
+<p align="center">
+  <img src="https://media.tenor.com/uj4Cnt7RVE0AAAAC/fatdog-dog.gif" width="350">
+</p>
+
+![Snake animation](https://github.com/DaviFonsec/DaviFonsec/blob/output/github-contribution-grid-snake.svg)
